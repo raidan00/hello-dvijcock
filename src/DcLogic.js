@@ -37,7 +37,7 @@ export default class{
 				mass: 1,
 			};
 			dcWorld.addObj(ball);
-		}, 3000);
+		}, 700);
 	}
 	//free resources
 	destroy(){
